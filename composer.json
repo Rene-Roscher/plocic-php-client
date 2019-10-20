@@ -1,0 +1,29 @@
+{
+    "name": "rene-roscher/plocic-api-client",
+    "description": "A full-featured implementation of the Json Api.",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": ">=6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rene Roscher",
+            "email": "roscher794@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Plocic\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "files": [
+            "tests/PlocicFacade.php"
+        ]
+    }
+}
