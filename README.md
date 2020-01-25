@@ -4,7 +4,7 @@
 <a href="https://packagist.org/packages/rene-roscher/plocic-api-client"><img src="https://poser.pugx.org/rene-roscher/plocic-api-client/license.svg" alt="License"></a>
 </p>
 
-## About Plocic Api Client - Full featured Api Client of the JSON-REST-API
+## Plocic Api Client - Full featured Api Client of the JSON-REST-API
 
 - Payment-Handler
 - Domain Handler
